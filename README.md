@@ -26,3 +26,6 @@ By applying machine learning techniques, we can classify loan applications as **
 Output
 Final model predicts whether a loan is approved or rejected.
 Helps banks reduce manual decision workload.
+
+dataset : Dataset :
+https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval?select=Loan.csv
